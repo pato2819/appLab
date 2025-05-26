@@ -1,0 +1,13 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Otros archivos comunes
+*.egg-info/
+*.log
+*.sqlite3
